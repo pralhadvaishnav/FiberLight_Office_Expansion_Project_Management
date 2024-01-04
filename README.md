@@ -36,6 +36,3 @@ We welcome contributions from the team. If you have ideas for improvements or fi
 - Lynn Pirro: Purchasing Manager, Fiber Light
 - Rex Blackmore: CEO, Project 44
 
-## License
-
-This project is licensed under [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
